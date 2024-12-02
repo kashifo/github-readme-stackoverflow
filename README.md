@@ -29,6 +29,14 @@ If you want to have a compact layout, just you need to add `layout=compact` as a
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
 
 
+#### Full Layout
+
+If you want to show upvotes and answers count as well, just you need to add `layout=full` as a parameter. Check out the options.
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=full)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=full&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
+
 <br>
 
 ## Options
@@ -36,13 +44,14 @@ If you want to have a compact layout, just you need to add `layout=compact` as a
 | ---------- | ------------------------------- | -------------------------- |
 | userID     | Your StackOverflow userID            | REQUIRED                |
 | theme      | Theme of the StackOverflow card (light or dark)      | light     |
-| layout     | Layout of the StackOverflow card (compact or default) | default |    
+| layout     | Layout of the StackOverflow card (compact or full or default) | default |    
 
 <br>
 
 ## Contributors
 - [Omid Nikrah](https://github.com/omidnikrah)
 - [Soroush Chehresa](https://github.com/soroushchehresa)
+- [Kashif Anwaar](https://github.com/kashifo)
 
 <br>
 
