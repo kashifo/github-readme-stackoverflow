@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img width="120px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" />
+  <img width="120px" src="https://raw.githubusercontent.com/kashifo/github-readme-stackoverflow/master/stackoverflow.svg" />
   <h2 align="center">GitHub Readme StackOverflow</h2>
   <p align="center">Show your StackOverflow profile status on your READMEs!</p>
 </p>
@@ -15,26 +15,26 @@ Copy paste following markdown into your markdown content, and that's it. Easy Ea
 Change the `?userID=` value to your StackOverflow's userID.
 
 ```md
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Kashif's StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209)](https://stackoverflow.com/users/4034209/kashif-anwaar
 ```
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209)](https://stackoverflow.com/users/4034209/kashif-anwaar)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&theme=dark)](https://stackoverflow.com/users/4034209/kashif-anwaar)
 
 #### Compact Layout
 
 If you want to have a compact layout, just you need to add `layout=compact` as a parameter. Check out the options.
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&layout=compact)](https://stackoverflow.com/users/4034209/kashif-anwaar)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&layout=compact&theme=dark)](https://stackoverflow.com/users/4034209/kashif-anwaar)
 
 
 #### Full Layout
 
 If you want to show upvotes and answers count as well, just you need to add `layout=full` as a parameter. Check out the options.
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=full)](https://stackoverflow.com/users/6558042/omid-nikrah)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=full&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&layout=full)](https://stackoverflow.com/users/4034209/kashif-anwaar)
+[![Kashif's  StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&layout=full&theme=dark)](https://stackoverflow.com/users/4034209/kashif-anwaar)
 
 
 <br>
@@ -56,4 +56,4 @@ If you want to show upvotes and answers count as well, just you need to add `lay
 <br>
 
 ## Deploy your own
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/omidnikrah/github-readme-stackoverflow)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/kashifo/github-readme-stackoverflow)
